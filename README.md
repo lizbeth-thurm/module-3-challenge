@@ -15,7 +15,7 @@ The code then generates the password and displays it on the screen.
 
 ## Screenshot
 
-<img src="./Develop/screenshot.png">
+<img src="./screenshot.png">
 
 ## Links
 
