@@ -14,8 +14,8 @@ function writePassword() {
 var passLength = Number(window.prompt("Please select a value between 8-128 for the length of the password."));
 
 // Checks for valid input
-while (isNaN(passLength) || passLength < 1 || passLength > 128) {
-  if (isNaN(passLength) || passLength < 1 || passLength > 128){
+while (isNaN(passLength) || passLength < 8 || passLength > 128) {
+  if (isNaN(passLength) || passLength < 8 || passLength > 128){
     alert("Invalid input");
     var passLength = window.prompt("Please select a value between 8-128 for the length of the password.");
   }
