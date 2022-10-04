@@ -19,7 +19,7 @@ The code then generates the password and displays it on the screen.
 
 ## Links
 
-<a href="https://skip-thurm.github.io/module-2-challenge/">Link to Deployed Page</a>
+<a href="https://skip-thurm.github.io/module-3-challenge/">Link to Deployed Page</a>
 
 <a href="https://github.com/skip-thurm/module-3-challenge">Link to Github Page with Code</a>
 
